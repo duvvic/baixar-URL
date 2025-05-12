@@ -6,6 +6,13 @@ Um aplicativo simples para **baixar vídeos do YouTube** de forma prática e vis
 
 Cole a URL de um vídeo do YouTube, escolha a pasta de destino e clique em **"Baixar"**. O download será feito automaticamente.
 
+Recomendação:
+Quando for colar um URL do youtube music ficara assim: "https://music.youtube.com/..."
+
+Remova: "music.". Dessa forma: "https://youtube.com/..."
+
+
+
 ## 🖼️ Interface
 
 ### Tela inicial
