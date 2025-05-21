@@ -17,7 +17,7 @@ Remova: "music.". Dessa forma: "https://youtube.com/..."
 
 ### Tela inicial
 
-![tela_inicial](https://github.com/user-attachments/assets/f1375ce2-00db-4a19-8577-fa450f3c6d10)
+![tela_inicial](https://github.com/duvvic/baixar-URL/blob/main/sem%20url.png)
 
 
 
@@ -26,7 +26,7 @@ Remova: "music.". Dessa forma: "https://youtube.com/..."
 
 ### Após colar o link
 
-![link_colado](https://github.com/user-attachments/assets/4b52966a-e489-42d3-adad-7e137d8842bb)
+![link_colado](https://github.com/duvvic/baixar-URL/blob/main/verificando%20url.png)
 
 
 - Mensagem de sucesso exibida ao final do download
@@ -34,7 +34,7 @@ Remova: "music.". Dessa forma: "https://youtube.com/..."
 ## ✅ Requisitos
 
 - Python 3.8+
-- [pytube](https://pytube.io/en/latest/)
+- [pytube](https://github.com/duvvic/baixar-URL/blob/main/baixando%20a%20url.png)
 - tkinter (já vem com o Python)
 
 Para instalar o `pytube`, rode:
